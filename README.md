@@ -1,4 +1,4 @@
-# ![Simple CRUD App](https://example.com/your-image.png)
+# ![Simple CRUD App](insomia.png)
 
 ## 🚀 Simple CRUD App Backend
 
