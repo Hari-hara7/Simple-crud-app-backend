@@ -61,5 +61,5 @@ This project is a **Simple CRUD (Create, Read, Update, Delete)** API built using
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/simple-crud-app-backend.git
+   git clone https://github.com/Hari-hara7/Simple-crud-app-backend.git
    cd simple-crud-app-backend
