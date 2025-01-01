@@ -1,14 +1,16 @@
-# Simple CRUD App Backend
+# ![Simple CRUD App](https://example.com/your-image.png)
+
+## 🚀 Simple CRUD App Backend
 
 This project is a **Simple CRUD (Create, Read, Update, Delete)** API built using **Node.js**, **Express**, and **MongoDB**. It provides a basic understanding of how to build a RESTful API with a database connection and implement common database operations.
 
-## 🚀 Technologies Used
+## ✨ Technologies Used
 
-- **Node.js**: A JavaScript runtime environment to build scalable server-side applications.
-- **Express.js**: A minimal and flexible Node.js web application framework to create RESTful APIs.
-- **MongoDB**: A NoSQL database for storing product data.
-- **Mongoose**: An Object Data Modeling (ODM) library for MongoDB and Node.js, which provides a straightforward way to interact with MongoDB.
-- **Nodemon**: A utility that monitors for file changes in the development environment and automatically restarts the server.
+[![Node.js](https://img.shields.io/badge/Node.js-v16.x-brightgreen?style=flat&logo=node.js)](https://nodejs.org/)
+[![Express.js](https://img.shields.io/badge/Express.js-v4.x-brightblue?style=flat&logo=express)](https://expressjs.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-v5.x-blue?style=flat&logo=mongodb)](https://www.mongodb.com/)
+[![Mongoose](https://img.shields.io/badge/Mongoose-v5.x-lightblue?style=flat&logo=mongoose)](https://mongoosejs.com/)
+[![Nodemon](https://img.shields.io/badge/Nodemon-v2.x-red?style=flat&logo=nodemon)](https://nodemon.io/)
 
 ## ✨ Features
 
